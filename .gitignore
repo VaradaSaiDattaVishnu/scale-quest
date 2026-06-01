@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+.DS_Store
+*.local
+.vite
+*.log
+.env
+.env.*
+!.env.example
+
+# Root-level planning/spec docs are not part of the app — keep only README
+/*.md
+!/README.md
